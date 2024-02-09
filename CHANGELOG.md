@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.1](https://github.com/medijobs/check-engines/compare/v1.0.0...v1.0.1) (2024-2-9)
+
+
+### 🤖 Build System
+
+* add conventional commit utility ([e4ae513](https://github.com/medijobs/check-engines/commit/e4ae513f34aa208b993cdaba93de2031692334bf))
+
 ## 1.0.0 (2024-2-9)
 
 
