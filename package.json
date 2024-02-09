@@ -21,10 +21,13 @@
     "npm-install-checks": "^6.3.0"
   },
   "scripts": {
+    "push": "npx @medijobs/conventional-commit",
     "test": "node ."
   },
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@medijobs/conventional-commit": "^1.0.0"
+  }
 }
